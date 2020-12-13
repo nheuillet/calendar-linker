@@ -1,0 +1,14 @@
+{
+    "google_calendar_events": "XXXX@group.calendar.google.com",
+    "google_calendar_projects": "XXXX@group.calendar.google.com",
+    "epitech_auth": "auth-XXXX",
+    "epitech_location_code": "FR/TLS",
+    "create_project_event": false,
+    "add_participants_to_project": false,
+    "epitech_semesters": [5, 6],
+    "timezone": "Europe/Paris",
+    "event_color": "10",
+    "project_color": "3",
+    "reminder_time": [10, 30],
+    "location_regex": "\\w{2}\/\\w+\/\\w+\/([\\w-_]+)"
+}
