@@ -1,5 +1,7 @@
 # calendar-linker
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/nheuillet/calendar-linker)](https://goreportcard.com/report/github.com/nheuillet/calendar-linker)
+
 An **easy** and **fast** linker that adds your Epitech calendar to your Google / Outlook (W.I.P) calendar.
 
 
